@@ -11,7 +11,7 @@ const Page = (props) => {
       <br />
       <nav>
         <Link href={props.linkTo}>
-          <a>Navigate</a>
+          Navigate
         </Link>
       </nav>
     </div>
